@@ -79,6 +79,6 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository**:
    Open your terminal and clone the project repository from GitHub:
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
-   cd task-manager
+   git clone https://github.com/sharvil31/Task-Manager.git
+   cd Task-Manager
 # Task-Manager
