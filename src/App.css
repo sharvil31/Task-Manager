@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+body {
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.tasks-container::-webkit-scrollbar {
+    width: 5px;
+}
+
+.tasks-container::-webkit-scrollbar-track {
+    background: #1F2029;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+
+  .tasks-container::-webkit-scrollbar-thumb {
+    background: #9ca3af;
+    border-radius: 5px;
+  }
+
+  .task-card:not(:first-child) {
+    margin-top: 20px;
+  }
